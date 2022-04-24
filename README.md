@@ -4,7 +4,7 @@
 
 ### To use this Application
 
-- [Go to live link](https://mrahma04.github.io/professional-portfolio-v2.0/)
+- [Go to live link](https://mrahma04.github.io/code-refactor-v2.0/)
 - Click on Portfolio Links to GitHub repos
 - Contact info/social media links
 
@@ -33,5 +33,3 @@ THEN I find a concise, descriptive title
 ```
 
 ### Screenshots
-
-#### Large Screens
